@@ -1,0 +1,24 @@
+Starting the engine of the car.
+Starting the engine of the truck.     
+Starting the engine of the motorcycle.
+A 2021 Toyota Corolla with 4 doors
+A 2022 Honda Accord with 4 doors
+A 2023 Ford Mustang with 2 doors
+A 2021 Chevrolet Silverado with a payload capacity of 2000 pounds
+A 2022 Ford F-150 with a payload capacity of 2500 pounds
+A 2023 Dodge Ram with a payload capacity of 3000 pounds
+A 2021 Harley-Davidson Softail with 2 wheels
+A 2022 BMW S1000RR with 2 wheels
+A 2023 Honda Gold Wing with 3 wheels
+The fastest vehicle is: A 2022 BMW S1000RR with 2 wheels
+The fastest vehicle is: A 2023 Ford Mustang with 2 doors
+Vehicles sorted by number of wheels:
+A 2021 Harley-Davidson Softail with 2 wheels
+A 2022 BMW S1000RR with 2 wheels
+A 2023 Honda Gold Wing with 3 wheels
+A 2021 Toyota Corolla with 4 doors
+A 2022 Honda Accord with 4 doors
+A 2023 Ford Mustang with 2 doors
+A 2021 Chevrolet Silverado with a payload capacity of 2000 pounds
+A 2022 Ford F-150 with a payload capacity of 2500 pounds
+A 2023 Dodge Ram with a payload capacity of 3000 pounds
